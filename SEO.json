@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "furniture-manufacturing-erp",
+  "description": "Furniture Manufacturing ERP — Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Furniture ERP linking BOM, workshop stages, showroom inventory, and custom order tracking. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/furniture-manufacturing-erp"
+}
